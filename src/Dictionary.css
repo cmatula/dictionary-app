@@ -1,0 +1,17 @@
+.Dictionary section {
+  background: rgb(244, 243, 243);
+  padding: 30px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.Dictionary input {
+  border-radius: 20px;
+  padding: 6px 10px;
+  border: 1px solid #ddd;
+}
+
+.search-field {
+  margin-right: 5px;
+  width: 90%;
+}

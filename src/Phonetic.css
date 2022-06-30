@@ -1,0 +1,13 @@
+.Phonetic {
+  margin: 20px;
+}
+
+.Phonetic a {
+  text-decoration: none;
+  border: 1px solid #ddd;
+  padding: 8px 15px;
+  border-radius: 20px;
+  color: rgb(101, 99, 99);
+  margin-left: 20px;
+  font-size: 13px;
+}
