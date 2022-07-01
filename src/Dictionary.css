@@ -1,7 +1,7 @@
 .Dictionary section {
-  background: white;
-  padding: 30px;
-  border-radius: 3px;
+  background: rgba(255, 255, 255, 0.66);
+  padding: 10px;
+  border-radius: 1px;
   margin-top: 20px;
 }
 
@@ -11,7 +11,11 @@
   border: 1px solid #ddd;
 }
 
-.search-field {
+.Dictionary .search-form {
+  text-align: center;
+}
+
+.Dictionary .search-field {
   margin-right: 5px;
-  width: 90%;
+  width: 80%;
 }
