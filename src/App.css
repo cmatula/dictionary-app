@@ -2,16 +2,16 @@
   max-width: 1040px;
   margin: 30px auto;
   padding: 30px;
-  background: rgba(149, 2, 2, 0.108);
+  background: rgba(176, 17, 17, 0.074);
   border-radius: 10px;
 }
 
 .App h1 {
   text-align: center;
-
-  font-weight: 300;
-  font-size: 36px;
+  color: rgb(149, 2, 2);
+  font-size: 40px;
   font-family: cursive;
+  margin-bottom: 40px;
   margin-top: 10px;
 }
 
@@ -30,12 +30,12 @@
 }
 
 .App-header {
-  margin: 30px 0;
+  margin-top: 40px;
 }
 
 .App-logo {
-  max-width: 400px;
-  border-radius: 15px 50px 30px 5px;
+  max-width: 330px;
+  border-radius: 10px;
   display: block;
   margin: 0 auto;
   padding: 2px;
@@ -52,12 +52,8 @@
     font-size: 24px;
   }
 
-  .App-header {
-    margin: 0;
-  }
-
   .App-logo {
-    max-width: 200px;
+    max-width: 180px;
   }
 
   .App-footer {
