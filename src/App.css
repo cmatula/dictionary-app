@@ -1,5 +1,6 @@
 .App {
-  margin: 30px;
+  max-width: 1040px;
+  margin: 30px auto;
   padding: 30px;
   background: rgba(149, 2, 2, 0.108);
   border-radius: 10px;
@@ -7,9 +8,11 @@
 
 .App h1 {
   text-align: center;
-  font-variant: small-caps;
+
   font-weight: 300;
   font-size: 36px;
+  font-family: cursive;
+  margin-top: 10px;
 }
 
 .App-footer {
@@ -58,6 +61,10 @@
   }
 
   .App-footer {
+    font-size: 10px;
+  }
+
+  input::placeholder {
     font-size: 10px;
   }
 }
