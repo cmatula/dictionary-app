@@ -8,10 +8,10 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
+          <p>The English Dictionary</p>
           <img src={logo} className="App-logo img-fluid" alt="logo" />
         </header>
         <main>
-          <h1>Dictionary</h1>
           <Dictionary />
         </main>
         <small>

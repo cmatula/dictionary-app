@@ -1,6 +1,15 @@
+.Dictionary h1 {
+  text-align: center;
+  color: rgb(149, 2, 2);
+  font-size: 20px;
+
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
 .Dictionary section {
   background: rgba(255, 255, 255, 0.749);
-  padding: 10px 20px;
+  padding: 20px;
   border-radius: 8px;
   margin-top: 20px;
 }
@@ -18,4 +27,10 @@
 .Dictionary .search-field {
   margin-right: 5px;
   width: 80%;
+}
+
+@media (max-width: 790px) {
+  .Dictionary h1 {
+    font-size: 14px;
+  }
 }
