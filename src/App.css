@@ -24,7 +24,8 @@
 }
 
 .App-footer a:hover {
-  color: black;
+  color: grey;
+  text-decoration: underline;
 }
 
 .App-header {

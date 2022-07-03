@@ -16,22 +16,22 @@ export default function App() {
         </main>
         <small>
           <footer className="App-footer">
-            This project is open source coded on{" "}
-            <a
-              href="https://github.com/cmatula/dictionary-app"
-              target="_blank"
-              rel="noreferrer"
-            >
-              GitHub{" "}
-            </a>{" "}
-            by{" "}
+            This project was coded by{" "}
             <a
               href="https://www.linkedin.com/in/cara-matula-3b0090141"
               target="_blank"
               rel="noreferrer"
             >
-              Cara Matula{" "}
-            </a>
+              Cara Matula
+            </a>{" "}
+            and is{" "}
+            <a
+              href="https://github.com/cmatula/dictionary-app"
+              target="_blank"
+              rel="noreferrer"
+            >
+              open-sourced on GitHub{" "}
+            </a>{" "}
           </footer>
         </small>
       </div>
